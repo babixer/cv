@@ -1,0 +1,150 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+/*this code above searched from stack overflow to control white space to the right*/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+
+}
+
+h1 {
+  color: #40a798;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #40a798;
+  font-family: 'Russo One', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #40a798;
+  font-family: 'Russo One', sans-serif;
+}
+
+hr {
+  border: dotted #40a798 6px;
+  border-bottom: none;
+  width: 6%;
+  margin: 100px auto;
+}
+
+a {
+  color: #40a798;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Titillium Web', sans-serif;
+  color: #52575d;
+  text-align: center;
+  padding: 7% 15%;
+  width: 75%;
+}
+
+.navbar {
+  background-color: #e3eff3;
+  margin: 0;
+  padding: 0;
+
+}
+
+.profile-pic {
+  background-color: #e3eff3;
+  border-left: 2px;
+  height: 40%;
+  width: 20%;
+  margin-left: 0;
+}
+
+.headertext {
+  font-size: 2rem;
+}
+
+.intro {
+  width: 75%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #e3eff3;
+  position: relative;
+  padding-top: 1px;
+}
+
+.middle-container {
+  background-color: #e3eff3;
+  font-family: 'Cormorant Garamond', serif;
+  padding: 50px 50px50px 50px;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  font-family: 'Titillium Web', sans-serif;
+  position: relative;
+  padding: 100px 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill1 {
+  width: 45%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2 {
+  width: 45%;
+  float: right;
+  margin-right: 30px;
+}
+
+.contactmessage {
+  width: 75%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background-color: #66BFBF;
+  border: none;
+  color: #EAF6F6;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.btn:hover {
+  color: #071a52;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.projects{
+  background-color: #e3eff3;
+  font-family: 'Cormorant Garamond', serif;
+  padding: 50px 50px50px 50px;
+}
