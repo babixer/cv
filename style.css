@@ -11,6 +11,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Cormorant Garamond', serif;
+  background-color: #fff;
 
 }
 
@@ -86,9 +87,9 @@ p {
 }
 
 .middle-container {
-  background-color: #e3eff3;
+  background-color: #e6f8f9;
   font-family: 'Cormorant Garamond', serif;
-  padding: 50px 50px50px 50px;
+  padding: 5px;
 
 }
 
@@ -102,9 +103,10 @@ p {
 
 .skill-row {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 50px auto 10px auto;
   text-align: left;
   line-height: 2;
+  padding: 100px 200px;
 }
 
 .skill1 {
@@ -144,7 +146,8 @@ a:hover {
 }
 
 .projects{
-  background-color: #e3eff3;
+  background-color: #fff;
   font-family: 'Cormorant Garamond', serif;
   padding: 50px 50px50px 50px;
+  text-align: center;
 }
